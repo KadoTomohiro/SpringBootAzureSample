@@ -1,0 +1,3 @@
+# SpringBootAzureSample
+
+SpringBoot AppがAzure WebApps上で動くか確認
